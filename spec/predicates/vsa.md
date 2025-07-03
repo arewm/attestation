@@ -2,6 +2,8 @@
 
 Type URI: https://slsa.dev/verification_summary/v1
 
+Deprecated Type URI: https://in-toto.io/attestation/simple-verification/v0.1
+
 Version: 1.0
 
 ## Purpose
